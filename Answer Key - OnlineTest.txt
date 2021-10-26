@@ -1,0 +1,29 @@
+1. Question #1: A(n)_____ constructor is one that requires no arguments.
+(Answer: Default)
+
+2. Question #2: System.out is an object of the class ______. 
+(Answer: PrintStream)
+
+3. Question #3: When can you use a private constructor?
+(Answer: To Disallow instantiation of that class.)
+
+4. Question #4: You are _____ required to write a constructor method for a class.
+(Answer: Never)
+
+5. Question #5: An object is a(n) ______ of a class.
+(Answer: Instance)
+
+6. Question #6: An abstact class ____.
+(Answer: Cannot Be Instantiated)
+
+7. Question #7: In JAVA, an array starts counting at _____.
+(Answer: 0)
+
+8. Question #8: A Class defines _____.
+(Answer: Behavior and Attributes)
+
+9. Question #9: In every Java Program _____. 
+(Answer: There must be a method called 'Main')
+
+10.Question #10: How many superclasses can you inherited subclass have?
+(Answer: One)
